@@ -40,22 +40,6 @@ Greek yogurt
 Storage: Leftovers can be stored in an airtight container in the refrigerator for up to 5 days or in the freezer for up to 3 months.
 
 ## Nutritional info
-tree-nut-free
-peanut-free
-alcohol-free
-soy-free
-vegetarian
-egg-free
-pescatarian
-wheat-free
-fish-free
-shellfish-free
-red-meat-free
-pork-free
-no-oil-added
-gluten-free
-
-Per serving, based on 8 servings. (% daily value)
 
 |  |Per serving, based on 8 servings. (% daily value)|
 |--|-------------------------------------------------|
