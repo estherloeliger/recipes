@@ -1,6 +1,6 @@
 # Slow cooker black bean soup
 
-![Black bean soup photo](images/black-bean-soup.webp)
+![Black bean soup photo](images/black-bean-soup.png)
 
 ## Ingredients
 1 pound dried black beans
@@ -57,6 +57,8 @@ gluten-free
 
 Per serving, based on 8 servings. (% daily value)
 
+|  |Per serving, based on 8 servings. (% daily value)|
+|--|-------------------------------------------------|
 |Calories|215|
 |Fat| 1.3 g (2.1%)|
 |Saturated|0.3 g (1.4%)|
