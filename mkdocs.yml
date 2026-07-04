@@ -1,0 +1,61 @@
+site_name: Recipes
+site_description: Family recipes
+
+theme:
+  name: material
+  icon:
+    logo: material/chef-hat
+  favicon: material/chef-hat
+  palette:
+    # Warm light mode - cooking inspired
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: 'Switch to dark mode'
+    # Original cool dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 'Switch to light mode'
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
+
+  extra_css:
+    - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - offline
+  - mkdocs-nav-weight
+  - with-pdf:
+      author: "&nbsp;"
+      cover: true
+      copyright: "&nbsp;"
+      cover_title: Recipes
+      cover_subtitle: Family recipes
+      output_path: pdf/recipes.pdf
+      debug_html: false
+      render_js: false
+      headless_chrome_path: '/usr/bin/google-chrome'
+      custom_template_path: templates
+      ordered_chapter_level: 0

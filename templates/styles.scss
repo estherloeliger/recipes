@@ -1,0 +1,47 @@
+@page {
+  size: 375px 667px;
+  margin: 15mm 10mm;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 100%;
+}
+
+article {
+  padding: 0.5rem;
+}
+
+h1 {
+  font-size: 1.4em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  font-size: 1.1em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+p, ul, ol {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre, code {
+  font-size: 12px;
+  word-wrap: break-word;
+}
