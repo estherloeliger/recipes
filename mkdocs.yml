@@ -47,6 +47,7 @@ plugins:
   - search
   - offline
   - mkdocs-nav-weight
+  - tags
   - with-pdf:
       author: "&nbsp;"
       cover: true
