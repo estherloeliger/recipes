@@ -1,6 +1,9 @@
 # Tahini-Hummus
 
-=== 2 tins:
+Purée all but the chickpeas first. Then add half the chickpeas and puree until smooth. Add the second half of chickpeas and puree until smooth or leave some coarseness.
+
+## Ingredients
+=== 2 tins of chickpeas
     ## Ingredients
     1 medium-large clove of garlic
     110ml water
@@ -9,11 +12,7 @@
     480g chickpeas
     1.5 tsp salt
 
-    ## Method
-    Purée all but the chickpeas first. Then add half the chickpeas and puree until smooth. Add the second half of chickpeas and puree until smooth or leave some coarseness.
-
-=== 1 tin:
-    ## Ingredients
+=== 1 tin of chickpeas
     0.5 medium-large clove of garlic
     55ml water
     25ml lemon juice
@@ -21,22 +20,3 @@
     240g chickpeas
     0.75 tsp salt
 
-    ## Method
-    Purée all but the chickpeas first. Then add half the chickpeas and puree until smooth. Add the second half of chickpeas and puree until smooth or leave some coarseness.
-
-
-
-<!--
-Makes: 800g hummus
-
-## Ingredients 
-480g chickpeas (2 tins drained and washed)
-170g tahini
-103 ml/g water
-47ml/g lemon juice
-1 clove of garlic
-2-2.5 tsp of salt
-
-## Method 
-Purée all but the chickpeas first. Then add half the chickpeas and puree until smooth. Add the second half of chickpeas and puree until smooth or leave some coarseness
--->
