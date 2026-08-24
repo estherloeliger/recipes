@@ -1,3 +1,10 @@
+---
+
+tags:
+- Test kitchen
+
+---
+
 # Gluten free crispy chicken pancake
 
 ## Ingredients
