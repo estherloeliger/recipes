@@ -11,6 +11,8 @@
 
 ## No oats, big clusters
 
+| Key       |  Value     |
+|-----------|------------|
 | Prep time | 15 minutes |
 | Cook time | 90 minutes |
 | Total time | 1h 45m |
@@ -24,6 +26,8 @@ A no-oat buckwheat granola for anyone looking for a naturally gluten-free, blood
 
 ## Ingredients
 
+| Key       |  Value     |
+|-----------|------------|
 |1 1/2 cups (255g) | buckwheat groats, rinsed and patted dry |
 |1/2 cup (100g) | whole grain millet |
 |1 cup (80g) | unsweetened shredded coconut or coconut flakes |
@@ -58,6 +62,8 @@ A no-oat buckwheat granola for anyone looking for a naturally gluten-free, blood
 
 Nutrition facts based on using regular pure maple syrup. Carb and sugar counts will be lower with a sugar free syrup.
 
+| Key       |  Value     |
+|-----------|------------|
 | Serving size | 1 |
 | Calories | 175 |
 | Sugar | 3.4g |
