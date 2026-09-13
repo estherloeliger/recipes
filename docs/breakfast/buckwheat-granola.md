@@ -1,9 +1,9 @@
 ---
 
-- tags:
-  - breakfast
-  - gluten free
-  - American
+tags:
+- breakfast
+- gluten free
+- American
 
 ---
 
