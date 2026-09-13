@@ -1,3 +1,11 @@
+---
+
+tags:
+- savoury
+- vegan
+
+---
+
 # Smoked tofu liver sausage
 
 ## Ingredients
