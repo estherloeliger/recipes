@@ -1,3 +1,5 @@
+---
+
 tags:
   - gluten free
   - rice bread
@@ -8,17 +10,19 @@ tags:
 
 ## Utensils
 Loaf pan
+
 Top: 214 x 95 x 90 mm
+
 Bottom: slightly smaller (tapered sides)
 
 ## Ingredients
-300g soaked rice (short grain rice)
-160 ml water
-2 tbsp cornstarch
-1 tsp instant yeast
-1.5 tbsp vegetable oil
-1 tbsp sugar
-1 tsp salt
+* 300g soaked rice (short grain rice)
+* 160 ml water
+* 2 tbsp cornstarch
+* 1 tsp instant yeast
+* 1.5 tbsp vegetable oil
+* 1 tbsp sugar
+* 1 tsp salt
 
 ## Instructions
 1. Wash rice and soak in water for at least 2 hours. Overnight, for the best result.

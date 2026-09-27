@@ -1,10 +1,12 @@
+---
+
 tags:
   - savoury
   - German cuisine
 
 ---
 
-# Kidney Bean Smoked Tofu Leberwurst Vegan
+# Kidney bean smoked tofu liver sausage vegan
 
 === "Variant 1"
     <!-- Taken from: [cheapandcheerfulcooking](https://cheapandcheerfulcooking.com) -->
@@ -34,12 +36,19 @@ tags:
 
     ## Ingredients
     100g smoked tofu
+
     125g kidney beans (tin)
+
     1/2 red onion
+
     1 tbsp olive oil
+
     1 tbsp parsley
+
     1 tsp marjoram
+
     1/2 tsp salt
+
     pepper
 
     ## Instructions

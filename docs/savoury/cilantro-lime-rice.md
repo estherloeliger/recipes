@@ -1,9 +1,6 @@
 # Cilantro lime rice
 
-!!! note
-    test
-
-3--5 servings
+Makes 3--5 servings.
 
 ## Ingredients
 

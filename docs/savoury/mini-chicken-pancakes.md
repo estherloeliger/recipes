@@ -1,3 +1,5 @@
+---
+
 tags:
   - savoury
   - chicken
@@ -11,15 +13,11 @@ tags:
 ## Ingredients
 
 ### Chicken marinade
-2 lbs chicken breast (chopped fine)
-
-2 tsp salt
-
-pepper
-
-garlic powder
-
-1 tbsp mirin
+* 2 lbs chicken breast (chopped fine)
+* 2 tsp salt
+* pepper
+* garlic powder
+* 1 tbsp mirin
 
 Rest 30 minutes.
 

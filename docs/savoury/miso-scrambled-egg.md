@@ -1,3 +1,5 @@
+---
+
 tags:
   - savoury
   - egg
@@ -8,16 +10,16 @@ tags:
 # Miso scrambled egg
 
 ## Ingredients
-4 large eggs
-1 tsp white sugar
-2 tsp white miso paste
-2 tsp water
-2 tsp toasted sesame oil
-furikake (to taste)
-1 scallion (chopped)
-shichimi tagarashi (to taste)
-roasted laver (cut into strips)
-black sesame seeds (to taste)
+* 4 large eggs
+* 1 tsp white sugar
+* 2 tsp white miso paste
+* 2 tsp water
+* 2 tsp toasted sesame oil
+* furikake (to taste)
+* 1 scallion (chopped)
+* shichimi tagarashi (to taste)
+* roasted laver (cut into strips)
+* black sesame seeds (to taste)
 
 ## Instructions
 1. Crack the eggs into a medium mixing bowl, add the sugar, and whisk until smooth.

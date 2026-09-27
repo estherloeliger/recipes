@@ -1,4 +1,13 @@
-# Chickpea and Cheese Crackers
+---
+
+tags:
+  - vegan
+  - grain-free
+  - high protein
+
+---
+
+# Chickpea and cheese crackers
 
 Tags: Vegan, Grain-free, High protein)
 
@@ -33,4 +42,6 @@ Place the shaped dough pieces onto the prepared baking sheet. Bake for 15–20 m
 Let the crackers cool completely on a wire rack before serving. Store any leftovers in an airtight container.
 
 ## Nutritional information
-Calories: Approximately 110 kcal per serving | Servings: 4 servings
+Calories: Approximately 110 kcal per serving
+
+Servings: 4

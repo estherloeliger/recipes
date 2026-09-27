@@ -1,17 +1,36 @@
+---
+
+tags:
+  - kidney beans
+  - Cajun cuisine
+
+---
+
 # Cajun kidney beans
 
 ## Ingredients
 1 Tbs oil
+
 400g minced red onions
+
 30g minced garlic
+
 2 Tbs Cajun spice mix (M&S)
+
 400g finely minced green peppers
+
 400g finely minced celery (peeled on the outside)
+
 10 tins Kidney beans (drained and rinsed)
+
 2 bay leaves
+
 450ml veg broth
+
 3.5 tsp smoked salt / salt
+
 2 tsp dark brown sugar
+
 3 Tbs lime juice
 
 ## Method
