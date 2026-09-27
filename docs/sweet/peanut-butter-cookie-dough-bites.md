@@ -49,5 +49,3 @@ For a nut-free version, simply swap sunflower seed butter for the peanut butter 
 flour for the almond flour (add a splash of non-dairy milk if the dough is a bit dry). Both versions work just fine.
 
 For a soy-free option, use soy-free chocolate chips (such as Enjoy Life brand)
-
-[Liddon, Oh She Glows, S. 234]
