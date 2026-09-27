@@ -16,13 +16,13 @@ about 1 3/4 cups
 Frangipane (Almond Cream)
 
 ## Ingredients
-6 tablespoons (85g) unsalted butter, at room temperature
-1/2 cup (99g) granulated sugar
-1/4 teaspoon table salt
-1 cup (96g) King Arthur Almond Flour
-3 tablespoons (23g) King Arthur Unbleached All-Purpose Flour or King Arthur Gluten-Free Measure for Measure Flour
-1 large egg, at room temperature
-2 teaspoons almond emulsion or almond extract
+* 6 tablespoons (85g) unsalted butter, at room temperature
+* 1/2 cup (99g) granulated sugar
+* 1/4 teaspoon table salt
+* 1 cup (96g) King Arthur Almond Flour
+* 3 tablespoons (23g) King Arthur Unbleached All-Purpose Flour or King Arthur Gluten-Free Measure for Measure Flour
+* 1 large egg, at room temperature
+* 2 teaspoons almond emulsion or almond extract
 
 ## Instructions
 In a medium bowl or the bowl of a stand mixer, beat together the butter, sugar, and salt until pale and fluffy, about 1 minute on medium speed.
